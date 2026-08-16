@@ -14,7 +14,7 @@ I'm going to use this site to help me with cryptography, documenting some of the
   > ^ <
 ```
 
-# [Click here for index of posts!](https://vodomerka-rgb.github.io/cryptography-for-everyone/pages/cryptography/)
+# [Click here for posts!](https://vodomerka-rgb.github.io/cryptography-for-everyone/pages/cryptography/)
 
 ---
 
