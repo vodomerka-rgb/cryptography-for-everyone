@@ -2,7 +2,7 @@
 layout: post
 title: Randomness
 date: 2026-08-16
-permalink: /posts/totients
+permalink: /posts/randomness
 ---
 
 # Randomness
