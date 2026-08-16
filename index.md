@@ -6,29 +6,16 @@ title: Home
 # Home
 
 Hiii, I’m Watermeasurerr!
-I'm going to use this site to help me with CTFs, documenting some of my tips, notes, and realizations here as I continue learning and solving challenges. I hope it can help you with CTFs too!
+I'm going to use this site to help me with cryptography, documenting some of the cryptographic algorithms, principles, and technology that I've encountered when doing CTFs. I hope it can help you better understand cryptography, and get better at CTFs too!
 
 ```
- /\     /\
-{  `---'  }
-{  O   O  }
-~~>  V  <~~
- \  \|/  /
-  `-----'__
-  /     \  `^\_
- {       }\ |\_\_   W
- |  \_/  |/ /  \_\_( )
-  \__/  /(_E     \__/
-    (  /
-     MM
+  /\_/\
+ ( o.o )
+  > ^ <
 ```
 
-# [Walkthroughs](https://vodomerka-rgb.github.io/ctfs-for-dummies/pages/ctf-walkthroughs/)
-
-# [Cryptography](https://vodomerka-rgb.github.io/ctfs-for-dummies/pages/cryptography/)
-
-# [Scripts/Python Stuff](https://vodomerka-rgb.github.io/ctfs-for-dummies/pages/code/)
+# [Click here for posts!](https://vodomerka-rgb.github.io/cryptography-for-everyone/pages/cryptography/)
 
 ---
 
-[About Me](https://vodomerka-rgb.github.io/ctfs-for-dummies/about/)
+[About Me](https://vodomerka-rgb.github.io/cryptography-for-everyone/about/)
