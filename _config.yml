@@ -1,9 +1,9 @@
-title: "CTFs For Dummies"
-description: "Walkthroughs, cryptography, and CTF-related thing made as simple as possible!"
+title: "Cryptography for Everyone"
+description: "Cryptography and CTF-related things made as simple as possible!"
 theme: jekyll-theme-hacker
 
 url: "https://vodomerka-rgb.github.io"
-baseurl: "/ctfs-for-dummies"
+baseurl: "/cryptography-for-everyone"
 
 markdown: kramdown
 kramdown:
